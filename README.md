@@ -13,10 +13,14 @@ graph TD;
     A --> D[Mobile App]
     
     %% Pushing Frontend, Backend, and Mobile App down
-    style B fill:#fff,stroke:#333,stroke-width:2px;
-    style C fill:#fff,stroke:#333,stroke-width:2px;
-    style D fill:#fff,stroke:#333,stroke-width:2px;
+    style B fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
+    style C fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
+    style D fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
 
+    %% Increasing the height of the nodes
+    classDef big fill:#fff,stroke:#333,stroke-width:2px;
+    class B,C,D big;
+    
     B --- React[React.js]
     B --- Next[Next.js]
     B --- Vue[Vue.js]
