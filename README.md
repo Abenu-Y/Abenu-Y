@@ -56,12 +56,14 @@ I specialize in full-stack development, creating engaging UIs and scalable backe
 ---
 
 ### 🌍 **I'm Open for Work!**  
-Feel free to explore my repositories and reach out for collaboration! 
+Check out my repositories and reach out for collaboration!
 
 ---
 
 <!-- Icons -->
+<div style={{display:'flex' , gap:'10px'}}>
 <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" style="vertical-align: middle;"/>
 <img src="https://cdn-icons-png.flaticon.com/512/2702/2702002.png" alt="Open for Collaboration" width="30" style="vertical-align: middle;"/>
 <img src="https://cdn-icons-png.flaticon.com/512/877/877614.png" alt="Full Stack Developer" width="30" style="vertical-align: middle;"/>
+</div>
 
