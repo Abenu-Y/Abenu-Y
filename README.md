@@ -26,14 +26,3 @@ graph TD;
         A --> MySQL[MySQL]
     end
 
-
-### 🚀 **Languages & Tools**:
-- **JavaScript**, **TypeScript**, **Python**, **Java**
-- **Tailwind CSS**, **Firebase**, **AWS**
-
----
-
-✨ **What I Do**:  
-I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something awesome together!
-
----
