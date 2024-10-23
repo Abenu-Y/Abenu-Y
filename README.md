@@ -50,10 +50,18 @@ graph TD;
 ```
 ---
 
-✨ **What I Do**:  
-I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something awesome together!
+### 💻 **What I Do**:  
+I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something amazing together! 
 
 ---
 
-### 🌟 **I'm Open for Work!**  
-Feel free to check out my repositories and reach out for collaboration!
+### 🌍 **I'm Open for Work!**  
+Feel free to explore my repositories and reach out for collaboration! 
+
+---
+
+<!-- Icons -->
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="30" style="vertical-align: middle;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2702/2702002.png" alt="Open for Collaboration" width="30" style="vertical-align: middle;"/>
+<img src="https://cdn-icons-png.flaticon.com/512/877/877614.png" alt="Full Stack Developer" width="30" style="vertical-align: middle;"/>
+
