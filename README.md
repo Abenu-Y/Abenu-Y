@@ -1,4 +1,3 @@
-
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> **Hey, I'm Abenezer Yoseph!**
 
 I'm a **Full-Stack Developer** passionate about building **web** and **mobile applications**. My focus is on creating intuitive user experiences, backed by scalable and efficient backends.
@@ -13,29 +12,22 @@ graph TD;
     A --> C[Backend]
     A --> D[Mobile App]
     
-    %% Pushing Frontend, Backend, and Mobile App down
-    style B fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
-    style C fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
-    style D fill:#fff,stroke:#333,stroke-width:2px, stroke-dasharray: 5, 5, opacity:0.7;
+    B -->|React| E[React.js]
+    B -->|Next| F[Next.js]
+    B -->|Vue| G[Vue.js]
 
-    %% Increasing the height of the nodes
-    classDef big fill:#fff,stroke:#333,stroke-width:2px;
-    class B,C,D big;
-    
-    B --- React[React.js]
-    B --- Next[Next.js]
-    B --- Vue[Vue.js]
-    C --- Node[Node.js]
-    C --- Java[Java]
-    D --- ReactNative[React Native]
-    D --- Android[Java for Android]
-    
+    C -->|Node| H[Node.js]
+    C -->|Java| I[Java]
+    C -->|GraphQL| J[GraphQL]
+
+    D -->|React Native| K[React Native]
+    D -->|Java for Android| L[Java for Android]
+
     subgraph Databases
-        A --> MongoDB[MongoDB]
-        A --> PostgreSQL[PostgreSQL]
-        A --> MySQL[MySQL]
+        A --> M[MongoDB]
+        A --> N[PostgreSQL]
+        A --> O[MySQL]
     end
-```
 
 ---
 
