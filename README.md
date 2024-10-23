@@ -26,8 +26,6 @@ graph TD;
         A --> MySQL[MySQL]
     end
 
----
-
 ### 🚀 **Languages & Tools**:
 - **JavaScript**, **TypeScript**, **Python**, **Java**
 - **Tailwind CSS**, **Firebase**, **AWS**
