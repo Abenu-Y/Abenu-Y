@@ -11,14 +11,20 @@ graph TD;
     A[Full Stack Developer] --> B[Frontend]
     A --> C[Backend]
     A --> D[Mobile App]
-    B --> React[React.js]
-    B --> Next[Next.js]
-    B --> Vue[Vue.js]
-    C --> Node[Node.js]
-    C --> GraphQL[GraphQL]
-    C --> Java[Java]
-    D --> ReactNative[React Native]
-    D --> Android[Java for Android]
+    
+    %% Pushing Frontend, Backend, and Mobile App down
+    style B fill:#fff,stroke:#333,stroke-width:2px;
+    style C fill:#fff,stroke:#333,stroke-width:2px;
+    style D fill:#fff,stroke:#333,stroke-width:2px;
+
+    B --- React[React.js]
+    B --- Next[Next.js]
+    B --- Vue[Vue.js]
+    C --- Node[Node.js]
+    C --- GraphQL[GraphQL]
+    C --- Java[Java]
+    D --- ReactNative[React Native]
+    D --- Android[Java for Android]
     
     subgraph Databases
         A --> MongoDB[MongoDB]
