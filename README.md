@@ -39,14 +39,14 @@ graph TD;
     A --> G[AWS]
     A --> H[Firebase]
     
-    style A fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style B fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style C fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style D fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style E fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style F fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style G fill:#6cc5f0,stroke:#333,stroke-width:2px;
-    style H fill:#6cc5f0,stroke:#333,stroke-width:2px;
+    style A fill:#ffffff,stroke:#333,stroke-width:2px;
+    style B fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style C fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style D fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style E fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style F fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style G fill:#f0f0f0,stroke:#333,stroke-width:2px;
+    style H fill:#f0f0f0,stroke:#333,stroke-width:2px;
 ```
 ---
 
