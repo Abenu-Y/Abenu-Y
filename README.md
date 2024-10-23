@@ -1,33 +1,30 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> **Hey, I'm Abenezer Yoseph!**
 
-I'm a **Full-Stack Developer** passionate about creating both **web** and **mobile apps** using modern technologies. I strive to build seamless, scalable, and high-performance solutions!
+I'm a **Full-Stack Developer** passionate about building **web** and **mobile applications**. My focus is on creating intuitive user experiences, backed by scalable and efficient backends.
 
 ---
 
-### 💻 **Frontend Development**:
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/fluency/48/000000/react.png" width="20px"/> React
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20px" style="margin-left: 10px;"/> Next.js
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="20px" style="margin-left: 10px;"/> Vue.js
-</div>
+### 🚀 **Tech Stack Overview**
 
-### 📱 **Mobile Development**:
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20px"/> React Native
-</div>
-
-### 🛠️ **Backend Development**:
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="20px"/> Node.js
-  <img src="https://img.icons8.com/ios-filled/50/000000/graphql.png" width="20px" style="margin-left: 10px;"/> GraphQL
-</div>
-
-### 🗄️ **Databases**:
-<div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20px"/> MongoDB
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20px" style="margin-left: 10px;"/> PostgreSQL
-  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20px" style="margin-left: 10px;"/> MySQL
-</div>
+```mermaid
+graph TD;
+    A[Full Stack Developer] --> B[Frontend]
+    A --> C[Backend]
+    A --> D[Mobile App]
+    B --> React[React.js]
+    B --> Next[Next.js]
+    B --> Vue[Vue.js]
+    C --> Node[Node.js]
+    C --> GraphQL[GraphQL]
+    C --> Java[Java]
+    D --> ReactNative[React Native]
+    D --> Android[Java for Android]
+    
+    subgraph Databases
+        A --> MongoDB[MongoDB]
+        A --> PostgreSQL[PostgreSQL]
+        A --> MySQL[MySQL]
+    end
 
 ---
 
