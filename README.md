@@ -27,7 +27,6 @@ graph TD;
 ```
 
 ---
-[Download README.md](sandbox:/mnt/data/README.md)
 ### 🛠️ **Languages & Tools**:
 
 ```mermaid
@@ -51,12 +50,4 @@ graph TD;
 
 
 
----
 
-✨ **What I Do**:  
-I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something awesome together!
-
----
-
-### 🌟 **I'm Open for Work!**  
-Feel free to check out my repositories and reach out for collaboration!
