@@ -1,33 +1,33 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px" height="45px"/> **Hey, I'm Abenezer Yoseph!**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> **Hey, I'm Abenezer Yoseph!**
+
+I'm a **Full-Stack Developer** passionate about creating both **web** and **mobile apps** using modern technologies. I strive to build seamless, scalable, and high-performance solutions!
 
 ---
 
-I'm a **Full-Stack Developer** who enjoys building **web** and **mobile applications** using the latest technologies. I focus on creating fast, scalable, and impactful solutions.
-
----
-
-### 💻 **Frontend**:
-<img src="https://img.icons8.com/fluency/48/000000/react.png" width="40px"/> **React.js**  
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/> **Vue.js**  
-<img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40px"/> **Next.js**
-
----
+### 💻 **Frontend Development**:
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/fluency/48/000000/react.png" width="20px"/> React
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="20px" style="margin-left: 10px;"/> Next.js
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="20px" style="margin-left: 10px;"/> Vue.js
+</div>
 
 ### 📱 **Mobile Development**:
-<img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px"/> **React Native**
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20px"/> React Native
+</div>
 
----
-
-### 🛠️ **Backend**:
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px"/> **Node.js**  
-<img src="https://img.icons8.com/ios-filled/50/000000/graphql.png" width="40px"/> **GraphQL**
-
----
+### 🛠️ **Backend Development**:
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="20px"/> Node.js
+  <img src="https://img.icons8.com/ios-filled/50/000000/graphql.png" width="20px" style="margin-left: 10px;"/> GraphQL
+</div>
 
 ### 🗄️ **Databases**:
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40px"/> **MongoDB**  
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40px"/> **PostgreSQL**  
-<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="40px"/> **MySQL**
+<div style="display: flex; align-items: center;">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="20px"/> MongoDB
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="20px" style="margin-left: 10px;"/> PostgreSQL
+  <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="20px" style="margin-left: 10px;"/> MySQL
+</div>
 
 ---
 
@@ -38,9 +38,6 @@ I'm a **Full-Stack Developer** who enjoys building **web** and **mobile applicat
 ---
 
 ✨ **What I Do**:  
-From designing seamless UIs to implementing powerful backends, I’m all about building apps that users love. Let’s create something incredible! 
+I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something awesome together!
 
 ---
-
-### 🌟 **Let's Collaborate**  
-Explore my projects or get in touch if you're ready to bring a new idea to life. Together, we can code something **awesome**! 🚀
