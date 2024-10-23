@@ -12,4 +12,3 @@ I'm a **full-stack developer** with a passion for creating dynamic web and mobil
 
 ---
 
-Feel free to check out my repositories or reach out for collaborations. Let's code something awesome together! ✨
