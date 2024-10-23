@@ -30,6 +30,7 @@ graph TD;
 
 ### 🛠️ **Languages & Tools**:
 
+```mermaid
 graph TD;
     A[Languages & Tools] --> B[JavaScript]
     A --> C[TypeScript]
@@ -47,6 +48,7 @@ graph TD;
     style F fill:#ccf,stroke:#333,stroke-width:2px;
     style G fill:#ccf,stroke:#333,stroke-width:2px;
     style H fill:#ccf,stroke:#333,stroke-width:2px;
+
 
 
 ---
