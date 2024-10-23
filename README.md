@@ -25,3 +25,31 @@ graph TD;
         A --> PostgreSQL[PostgreSQL]
         A --> MySQL[MySQL]
     end
+
+
+---
+
+### 🛠️ **Languages & Tools**:
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="80"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="80"/>
+</div>
+
+---
+
+✨ **What I Do**:  
+I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something awesome together!
+
+---
+
+### 🌟 **I'm Open for Work!**  
+Feel free to check out my repositories and reach out for collaboration!
+
