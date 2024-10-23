@@ -2,15 +2,32 @@
 
 ---
 
-I'm a **Full-Stack Developer** passionate about building both **web** and **mobile applications** that stand out. From intuitive user interfaces to scalable back-end solutions, I’m here to create magic with code. 🌟
+I'm a **Full-Stack Developer** who enjoys building **web** and **mobile applications** using the latest technologies. I focus on creating fast, scalable, and impactful solutions.
 
 ---
 
-### 💻 **Tech Stack**:
+### 💻 **Frontend**:
+<img src="https://img.icons8.com/fluency/48/000000/react.png" width="40px"/> **React.js**  
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/> **Vue.js**  
+<img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40px"/> **Next.js**
 
-| **Frontend** | **Mobile Apps** | **Backend** | **Databases** |
-| ------------ | ---------------- | ----------- | ------------- |
-| <img src="https://img.icons8.com/fluency/48/000000/react.png" width="40px"/> React.js <br/> <img src="https://img.icons8.com/color/48/000000/vue-js.png" width="40px"/> Vue.js <br/> <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="40px"/> Next.js | <img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px"/> React Native | <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px"/> Node.js <br/> <img src="https://img.icons8.com/ios-filled/50/000000/graphql.png" width="40px"/> GraphQL | <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40px"/> MongoDB <br/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40px"/> PostgreSQL <br/> <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="40px"/> MySQL |
+---
+
+### 📱 **Mobile Development**:
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="40px"/> **React Native**
+
+---
+
+### 🛠️ **Backend**:
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40px"/> **Node.js**  
+<img src="https://img.icons8.com/ios-filled/50/000000/graphql.png" width="40px"/> **GraphQL**
+
+---
+
+### 🗄️ **Databases**:
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40px"/> **MongoDB**  
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="40px"/> **PostgreSQL**  
+<img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" width="40px"/> **MySQL**
 
 ---
 
@@ -21,14 +38,9 @@ I'm a **Full-Stack Developer** passionate about building both **web** and **mobi
 ---
 
 ✨ **What I Do**:  
-I specialize in crafting solutions that are fast, scalable, and efficient. Whether it's building modern web apps using **React**, mobile apps with **React Native**, or architecting back-end systems with **Node.js**—I love it all! 🤓
+From designing seamless UIs to implementing powerful backends, I’m all about building apps that users love. Let’s create something incredible! 
 
 ---
 
-### ✨ **Let's Build Something Awesome Together**  
-Feel free to explore my repositories and reach out if you want to collaborate or discuss a project! I'm always open to new opportunities. Let's make something **amazing**! 🌟
-
----
-
-
-
+### 🌟 **Let's Collaborate**  
+Explore my projects or get in touch if you're ready to bring a new idea to life. Together, we can code something **awesome**! 🚀
