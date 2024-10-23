@@ -1,8 +1,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> **Hey, I'm Abenezer Yoseph!**
 
-I'm a **Full-Stack Developer** passionate about building **web** and **mobile applications**. 
-My focus is on creating intuitive user experiences, backed by scalable and efficient backends.
+I'm a **Full-Stack Developer** passionate about building **web** and **mobile applications**. My focus is on creating intuitive user experiences, backed by scalable and efficient backends.
 
 ---
 
@@ -27,7 +26,6 @@ graph TD;
     B --- Next[Next.js]
     B --- Vue[Vue.js]
     C --- Node[Node.js]
-    C --- GraphQL[GraphQL]
     C --- Java[Java]
     D --- ReactNative[React Native]
     D --- Android[Java for Android]
@@ -43,16 +41,18 @@ graph TD;
 
 ### 🛠️ **Languages & Tools**:
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="80"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="80"/>
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="Vue.js" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="50"/> <!-- Fixed GraphQL URL -->
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL" width="50"/> <!-- Fixed MySQL URL -->
+  <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python" width="50"/> <!-- Added Python logo -->
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50"/> <!-- Added TypeScript logo -->
 </div>
 
 ---
