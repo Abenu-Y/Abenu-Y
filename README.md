@@ -1,7 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> **Hey, I'm Abenezer Yoseph!**
 
-I'm a **Full-Stack Developer** passionate about building **web** and **mobile applications**. My focus is on creating intuitive user experiences, backed by scalable and efficient backends.
-
+I am an **IT Infrastructure Engineer** and **Full-Stack Developer** passionate about building highly available systems and scalable web applications.
+### 🔧 What I do:
+*   **Infrastructure & SysAdmin:** Managing Windows Server & Linux (Ubuntu, RHEL, CentOS), Active Directory, KVM virtualization, and network troubleshooting (L2/L3).
+*   **Full-Stack Development:** Building applications using the MERN stack (MongoDB, Express, React, Node.js) and PostgreSQL.
+I love solving complex technical problems, whether that means untangling a network issue, optimizing a database query, or deploying a full-stack application on a secure server environment. 🚀
 ---
 
 ### 🚀 **Tech Stack Overview**
