@@ -4,6 +4,8 @@ I am an **IT Infrastructure Engineer** and **Full-Stack Developer** passionate a
 ### 🔧 What I do:
 *   **Infrastructure & SysAdmin:** Managing Windows Server & Linux (Ubuntu, RHEL, CentOS), Active Directory, KVM virtualization, and network troubleshooting (L2/L3).
 *   **Full-Stack Development:** Building applications using the MERN stack (MongoDB, Express, React, Node.js) and PostgreSQL.
+
+  
 I love solving complex technical problems, whether that means untangling a network issue, optimizing a database query, or deploying a full-stack application on a secure server environment. 🚀
 ---
 
@@ -54,7 +56,9 @@ graph TD;
 ---
 
 ### 💻 **What I Do**:  
-I specialize in full-stack development, creating engaging UIs and scalable backends. If you're looking for someone to bring your idea to life, let's collaborate and build something amazing together! 
+I specialize in **full-stack development** and **IT infrastructure**, building engaging UIs and backing them up with scalable, highly available server environments. 
+
+Whether you need an idea brought to life or an application deployed securely, let's collaborate and build something amazing together! 💡
 
 ---
 
