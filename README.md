@@ -4,8 +4,6 @@ I am an **IT Infrastructure Engineer** and **Full-Stack Developer** passionate a
 ### 🔧 What I do:
 *   **Infrastructure & SysAdmin:** Managing Windows Server & Linux (Ubuntu, RHEL, CentOS), Active Directory, KVM virtualization, and network troubleshooting (L2/L3).
 *   **Full-Stack Development:** Building applications using the MERN stack (MongoDB, Express, React, Node.js) and PostgreSQL.
-
-  
 I love solving complex technical problems, whether that means untangling a network issue, optimizing a database query, or deploying a full-stack application on a secure server environment. 🚀
 ---
 
@@ -13,45 +11,51 @@ I love solving complex technical problems, whether that means untangling a netwo
 
 ```mermaid
 graph TD;
-    A[Full Stack Developer] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[Mobile App]
+    Root[IT & Full Stack Engineer] 
+    
+    Root --> Dev[Software Development]
+    Root --> Infra[IT Infrastructure]
+    Root --> DataCloud[Data & Cloud]
+    Root --> Lang[Languages & Tools]
+    %% Software Development Pillar
+    Dev --> B[Frontend]
+    Dev --> C[Backend]
+    Dev --> D[Mobile App]
     B --> React[React.js]
     B --> Next[Next.js]
     B --> Vue[Vue.js]
     C --> Node[Node.js]
-    C --> Java[Java]
+    C --> JavaBackend[Java]
     D --> ReactNative[React Native]
+    %% IT Infrastructure Pillar
+    Infra --> Win[Windows Server & AD]
+    Infra --> Lin[Linux Ubuntu/CentOS]
+    Infra --> Net[Networking L2/L3]
+    Infra --> KVM[KVM Virtualization]
+    %% Data & Cloud Pillar
+    DataCloud --> DB[Databases]
+    DataCloud --> Mon[Cloud & Monitoring]
     
-    subgraph Databases
-        A --> MongoDB[MongoDB]
-        A --> PostgreSQL[PostgreSQL]
-        A --> MySQL[MySQL]
-    end
-
-```
-
----
-### 🛠️ **Languages & Tools**:
-
-```mermaid
-graph TD;
-    A[Languages & Tools] --> B[JavaScript]
-    A --> C[TypeScript]
-    A --> D[Python]
-    A --> E[Java]
-    A --> F[Tailwind CSS]
-    A --> G[AWS]
-    A --> H[Firebase]
+    DB --> MongoDB[MongoDB]
+    DB --> PostgreSQL[PostgreSQL]
+    DB --> MySQL[MySQL]
     
-    style A fill:#2E3A4D,stroke:#FFFFFF,stroke-width:2px;
-    style B fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style C fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style D fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style E fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style F fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style G fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
-    style H fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px;
+    Mon --> AWS[AWS]
+    Mon --> Fire[Firebase]
+    Mon --> Z[Zabbix]
+    Mon --> ELK[ELK Stack]
+    %% Languages & Tools Pillar
+    Lang --> JS[JavaScript / TypeScript]
+    Lang --> Py[Python / Bash]
+    Lang --> CSS[Tailwind CSS]
+    %% Styling
+    style Root fill:#2E3A4D,stroke:#FFFFFF,stroke-width:2px,color:#fff;
+    
+    style Dev fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px,color:#fff;
+    style Infra fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px,color:#fff;
+    style DataCloud fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px,color:#fff;
+    style Lang fill:#4B6F97,stroke:#FFFFFF,stroke-width:2px,color:#fff;
+
 ```
 ---
 
